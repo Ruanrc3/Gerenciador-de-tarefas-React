@@ -19,6 +19,7 @@ O objetivo é permitir que o usuário cadastre, visualize e marque tarefas como 
 - CSS3
 - JavaScript (ES6+)
 
+📸 Prints
 
 <img width="1857" height="837" alt="image" src="https://github.com/user-attachments/assets/ae4beed0-8751-432f-9c81-8f4d0e98c4b2" />
 
